@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Deepak%20Moger%20%7C%20Designing%20ML%20Systems%20That%20Think%20%26%20Scale&fontSize=24&fontAlign=50&fontAlignY=52&color=0:0A0F1F,50:102542,100:1E3A8A&fontColor=7DD3FC" alt="AI branded strip"/>
+  <b>Designing ML Systems That Think and Scale</b>
 </p>
 
 <p align="center">
@@ -32,7 +32,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepak-moger&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies"/>
+  <img src="https://img.shields.io/badge/Focus-Applied%20Machine%20Learning-0A66C2?style=flat-square" alt="Applied ML"/>
+  <img src="https://img.shields.io/badge/Focus-Production%20AI-1D4ED8?style=flat-square" alt="Production AI"/>
+  <img src="https://img.shields.io/badge/Focus-Drift%20Detection-0F766E?style=flat-square" alt="Drift Detection"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-10B981?style=flat-square" alt="Open to Collaborations"/>
 </p>
 
 ## About Me

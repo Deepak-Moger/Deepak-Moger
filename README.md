@@ -709,7 +709,7 @@ quadrantChart
 
 <a id="workflow--tooling-rituals"></a>
 
-## Workflow and Tooling Rituals
+## Workflow &amp; Tooling Rituals
 
 The non-glamorous habits that compound into shipped software:
 
